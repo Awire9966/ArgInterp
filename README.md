@@ -1,0 +1,2 @@
+# ArgInterp
+Intercept any args.
