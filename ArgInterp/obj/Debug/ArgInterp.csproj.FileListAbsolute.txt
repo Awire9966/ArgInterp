@@ -1,0 +1,8 @@
+C:\Users\Awire\source\repos\ArgInterp\ArgInterp\bin\Debug\ArgInterp.exe.config
+C:\Users\Awire\source\repos\ArgInterp\ArgInterp\bin\Debug\ArgInterp.exe
+C:\Users\Awire\source\repos\ArgInterp\ArgInterp\bin\Debug\ArgInterp.pdb
+C:\Users\Awire\source\repos\ArgInterp\ArgInterp\obj\Debug\ArgInterp.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\ArgInterp\ArgInterp\obj\Debug\ArgInterp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\ArgInterp\ArgInterp\obj\Debug\ArgInterp.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\ArgInterp\ArgInterp\obj\Debug\ArgInterp.exe
+C:\Users\Awire\source\repos\ArgInterp\ArgInterp\obj\Debug\ArgInterp.pdb
